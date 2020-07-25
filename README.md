@@ -1,0 +1,2 @@
+# tinoIQ
+stock price prediction
